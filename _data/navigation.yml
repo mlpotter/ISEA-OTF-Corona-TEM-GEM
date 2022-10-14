@@ -2,6 +2,6 @@ main:
   - title: "About"
     url: /about/
   - title: "Home"
-    url: /splash-page/
+    url: /
   - title: "Templates"
     url: /templates/
