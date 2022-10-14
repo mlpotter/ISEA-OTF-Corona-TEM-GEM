@@ -3,3 +3,5 @@ main:
     url: /about/
   - title: "Home"
     url: /splash-page/
+  - title: "Templates"
+    url: /templates/
