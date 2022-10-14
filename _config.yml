@@ -74,9 +74,9 @@ plugins:
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin-square"
+      url: "https://www.linkedin.com/company/navseacorona/mycompany/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
