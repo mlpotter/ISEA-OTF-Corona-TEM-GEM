@@ -14,3 +14,5 @@ excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef 
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
+
+How do you do ?
