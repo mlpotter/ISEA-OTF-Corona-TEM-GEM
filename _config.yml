@@ -77,12 +77,9 @@ footer:
     - label: "Linkedin"
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/company/navseacorona/mycompany/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://www.instagram.com/navseacorona/?hl=en"
 
 defaults:
   # _posts
