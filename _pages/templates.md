@@ -21,7 +21,7 @@ feature_row:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
-    - image_path: /assets/images/templates/MS.png
+  - image_path: /assets/images/templates/MS.png
     title: "Measurement Sciences"
     excerpt: "Measurement Sciences focuses on.."
     url: "#test-link"
