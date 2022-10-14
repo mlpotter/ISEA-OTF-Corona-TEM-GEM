@@ -18,7 +18,7 @@ feature_row:
   - image_path: /assets/images/templates/PA.png
     title: "Performance Assessment"
     excerpt: "Performance Assessment focuses on."
-    url: https://drive.google.com/uc?export=download&id=1Z8KaMpmJ5wFgAP_D6hmDOKEFBlHR51uA
+    url: https://drive.google.com/uc?export=download&id=17-4Dwv1qdwt9y3Yhcp7o2GhU7Czv3Huz
     btn_label: "Download"
     btn_class: "btn--primary"
   - image_path: /assets/images/templates/MS.png
