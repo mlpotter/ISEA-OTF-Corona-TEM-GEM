@@ -9,10 +9,40 @@ header:
   actions:
     - label: "Agenda Download"
       url: https://drive.google.com/uc?export=download&id=1fnAMA6lX26rd8h6g7stnLgugGmLAXfFQ
-excerpt: "Provide transparency to warfighting readiness through data analytics and assessment, engineering the Fleet’s Live-Virtual-Constructive training environment, and assuring the accuracy of measurements. The question is, how do we do this?"
+excerpt: "NSWC Corona's Strageic Plan 2030 details how the Navy will provide advanced data analytics while fostering an engaged and innovative workforce. In alignment with this statement, NSWC Corona will host a Technical Exchange Meeting to shine a light on what the average NSWC Corona scientist and engineer in the technical department research and develops. We encourage all NSWC Corona personnel, veterans and novices alike, to answer the call for submissions."
 ---
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
 
-How do you do ?
+# Deadlines
+<table>
+  <tr>
+    <th colspan="3">Presenters</th>
+  </tr>
+  <tr>
+    <td>Abstract Submission</td>
+    <td>50</td>
+  </tr>
+  <tr>
+    <td>Poster Submission</td>
+    <td>50</td>
+  </tr>
+  <tr>
+    <td>Oral Submission</td>
+    <td>50</td>
+  <tr>
+    <th colspan="3">Keynote Speakers</th>
+  </tr>
+  <tr>
+    <td>Lecture Submission</td>
+    <td>50</td>
+  <tr>
+  <tr>
+    <th colspan="3">Tutorial Instructors</th>
+  </tr>
+  <tr>
+    <td>Tutorial Submission</td>
+    <td>50</td>
+  <tr>
+</table>
