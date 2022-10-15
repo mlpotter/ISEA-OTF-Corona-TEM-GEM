@@ -45,4 +45,3 @@ excerpt: "NSWC Corona's Strageic Plan 2030 details how the Navy will provide adv
     <td>Tutorial Submission</td>
     <td>50</td>
   <tr>
-</table>
