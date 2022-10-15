@@ -45,7 +45,9 @@ include:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-
+lunr:
+  search_within_pages: true
+  
 # Plugins (previously gems:)
 plugins:
   - jekyll-paginate
