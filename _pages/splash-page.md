@@ -11,7 +11,7 @@ header:
       url: https://drive.google.com/uc?export=download&id=1fnAMA6lX26rd8h6g7stnLgugGmLAXfFQ
 excerpt: "NSWC Corona's Strageic Plan 2030 details how the Navy will provide advanced data analytics while fostering an engaged and innovative workforce. 
 
-In alignment with this statement, NSWC Corona will host a Technical Exchange Meeting to shine a light on what the average NSWC Corona scientist and engineer in the technical department research and develops. We encourage all NSWC Corona personnel, veterans and novices alike, to answer the call for submissions."
+In alignment with this statement, NSWC Corona will host a Technical Exchange Meeting to shine a light on what the average NSWC Corona scientist and engineer researches and develops. We encourage all NSWC Corona personnel, experts and novices alike, to answer the call for submissions."
 ---
 {% include feature_row id="intro" type="center" %}
 
