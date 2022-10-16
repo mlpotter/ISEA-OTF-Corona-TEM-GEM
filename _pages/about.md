@@ -15,14 +15,9 @@ NSWC Corona Technical Exchange Meeting offers a platform for organizations to pr
 
 # People
 <p align="right">
-![image-right](ISEA-OTF-Corona-TEM-GEM/assets/images/bio-photo.jpg)
-<img align="right" width="100" height="100" src="./assets/images/bio-photo.jpp"> This text will describe so and so
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/bio-photo.jpg" alt="" align="right"> How the cookie has crumbled
 </p>
 
-![alt]({{ site.url }}{{ site.baseurl }}/assets/images/bio-photo.jpg)
-
-<p align="right">
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/bio-photo.jpg" alt=""> How the cookie has crumbled
+<p align="left">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/bio-photo.jpg" alt="" align=left> How the cookie has crumbled
 </p>
-
-<img align="left" width="100" height="100" src="https://github.com/mlpotter/ISEA-OTF-Corona-TEM-GEM/blob/master/assets/images/bio-photo.jpg"> This text will describe so and so
