@@ -19,4 +19,10 @@ NSWC Corona Technical Exchange Meeting offers a platform for organizations to pr
 <img align="right" width="100" height="100" src="./assets/images/bio-photo.jpp"> This text will describe so and so
 </p>
 
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/bio-photo.jpg)
+
+<p align="right">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/bio-photo.jpg" alt=""> How the cookie has crumbled
+</p>
+
 <img align="left" width="100" height="100" src="https://github.com/mlpotter/ISEA-OTF-Corona-TEM-GEM/blob/master/assets/images/bio-photo.jpg"> This text will describe so and so
