@@ -14,6 +14,8 @@ NSWC Corona Division has served as the Navy's independent assessment agent since
 NSWC Corona Technical Exchange Meeting offers a platform for organizations to present technological advancements and innovations. The primary interest areas for this Technical Exchange Meeting include: Assured Identity, Automation, MLOps, Security & Operations (DevSecOps), Fifth Generation Wireless (5G), Machine Learning & Artificial Intelligence (ML & AI), Industry 4.0, and Material Sciences.
 
 # People
-<img align="right" width="100" height="100" src="/assets/images/bio-photo.jpg"> This text will describe so and so
+<p align="right">
+<img align="right" width="100" height="100" src="https://github.com/mlpotter/ISEA-OTF-Corona-TEM-GEM/blob/master/assets/images/bio-photo.jpg"> This text will describe so and so
+</p>
 
-<img align="left" width="100" height="100" src="/assets/images/bio-photo.jpg"> This text will describe so and so
+<img align="left" width="100" height="100" src="https://github.com/mlpotter/ISEA-OTF-Corona-TEM-GEM/blob/master/assets/images/bio-photo.jpg"> This text will describe so and so
