@@ -20,7 +20,7 @@ feature_row:
     url: https://www.linkedin.com/in/edward-schuberg/
     btn_label: "Contact"
     btn_class: "btn--primary"
-  - image_path: /assets/images/bio-photo.jpg
+  - image_path: MichaelPotter_ProfilePicture.JPG 
     title: "Michael Potter"
     excerpt: "TBD"
     url: https://github.com/mlpotter
