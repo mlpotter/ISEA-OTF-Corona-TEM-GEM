@@ -1,5 +1,6 @@
 ---
 title: "What Do We Do?"
+classes: wide
 layout: splash
 permalink: /
 header:
