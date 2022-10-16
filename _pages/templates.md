@@ -28,4 +28,5 @@ feature_row:
     btn_label: "Download"
     btn_class: "btn--primary"
 ---
+Each technical department conducting research and development for NSWC Corona has a unique poster and presentation template. You may change template characteristics such  as font size, location of text boxes, the content within the text boxes, and distribution statements. Do not change template characteristics such as the text boxes' headers, the coloring of the templates, the templates' title pictures.
 {% include feature_row %}
