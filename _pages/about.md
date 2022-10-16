@@ -5,6 +5,7 @@ layout: single
 title: "About"
 sidebar:
   - title: "Deadlines"
+    image: 
     text: <table> 
             <tr>
               <th colspan="3">Presenters</th>
