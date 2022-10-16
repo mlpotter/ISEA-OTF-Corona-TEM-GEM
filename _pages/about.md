@@ -1,7 +1,7 @@
 ---
 permalink: /about/
 classes: wide
-layout: single
+layout: splash
 title: "About"
 author:
   name   : "Michael Potter"
