@@ -17,7 +17,7 @@ NSWC Corona Technical Exchange Meeting offers a platform for organizations to pr
 <div class="row">
   <div class="column">
     <div class="card">
-      <img src="/assets/images/bio-photo.jpg" alt="Jane" style="width:100%">
+      <img src="{{ site.url }}{{ site.baseurl }}/assets/images/bio-photo.jpg" alt="Jane" style="width:100%">
       <div class="container">
         <h2>Jane Doe</h2>
         <p class="title">CEO &amp; Founder</p>
@@ -30,7 +30,7 @@ NSWC Corona Technical Exchange Meeting offers a platform for organizations to pr
 
   <div class="column">
     <div class="card">
-      <img src="/assets/images/bio-photo.jpg" alt="Mike" style="width:100%">
+      <img src="{{ site.url }}{{ site.baseurl }}/assets/images/bio-photo.jpg" alt="Mike" style="width:100%">
       <div class="container">
         <h2>Mike Ross</h2>
         <p class="title">Art Director</p>
@@ -43,7 +43,7 @@ NSWC Corona Technical Exchange Meeting offers a platform for organizations to pr
 
   <div class="column">
     <div class="card">
-      <img src="/assets/images/bio-photo.jpg" alt="John" style="width:100%">
+      <img src="{{ site.url }}{{ site.baseurl }}/assets/images/bio-photo.jpg" alt="John" style="width:100%">
       <div class="container">
         <h2>John Doe</h2>
         <p class="title">Designer</p>
