@@ -5,8 +5,6 @@ layout: single
 title: "About"
 sidebar:
   - title: "Deadlines"
-    image: http://placehold.it/350x250
-    image_alt: "image"
     text: <table> 
             <tr>
               <th colspan="3">Presenters</th>
