@@ -13,15 +13,44 @@ NSWC Corona Division has served as the Navy's independent assessment agent since
 
 NSWC Corona Technical Exchange Meeting offers a platform for organizations to present technological advancements and innovations. The primary interest areas for this Technical Exchange Meeting include: Assured Identity, Automation, MLOps, Security & Operations (DevSecOps), Fifth Generation Wireless (5G), Machine Learning & Artificial Intelligence (ML & AI), Industry 4.0, and Material Sciences.
 
-# People
-<div class="container">
-<p align="right">
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/bio-photo.jpg" alt="" align="right"> How the cookie has crumbled
-</p>
-</div>
+# Meet The Team
+<div class="row">
+  <div class="column">
+    <div class="card">
+      <img src="/assets/images/bio-photo.jpg" alt="Jane" style="width:100%">
+      <div class="container">
+        <h2>Jane Doe</h2>
+        <p class="title">CEO &amp; Founder</p>
+        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
+        <p>example@example.com</p>
+        <p><button class="button">Contact</button></p>
+      </div>
+    </div>
+  </div>
 
-<div class="container">
-<p align="left">
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/bio-photo.jpg" alt="" align=left> How the cookie has crumbled
-</p>
+  <div class="column">
+    <div class="card">
+      <img src="/assets/images/bio-photo.jpg" alt="Mike" style="width:100%">
+      <div class="container">
+        <h2>Mike Ross</h2>
+        <p class="title">Art Director</p>
+        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
+        <p>example@example.com</p>
+        <p><button class="button">Contact</button></p>
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+      <img src="/assets/images/bio-photo.jpg" alt="John" style="width:100%">
+      <div class="container">
+        <h2>John Doe</h2>
+        <p class="title">Designer</p>
+        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
+        <p>example@example.com</p>
+        <p><button class="button">Contact</button></p>
+      </div>
+    </div>
+  </div>
 </div>
