@@ -1,6 +1,7 @@
 ---
 permalink: /about/
 classes: wide
+layout: single
 title: "About"
 ---
 
