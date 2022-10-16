@@ -1,6 +1,7 @@
 ---
 permalink: /registration/
 title: "Registration Form"
+classes: wide
 ---
 If you cannot open the embedded registration form, please use this <a href="https://docs.google.com/forms/d/e/1FAIpQLSfgP6VYTzfb77hLmNBHUnKOH2FcWfTylB8MXRATSOYa5giN2A/viewform?usp=sf_link">link</a>
 
