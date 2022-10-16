@@ -3,6 +3,13 @@ permalink: /about/
 classes: wide
 layout: single
 title: "About"
+sidebar:
+  - title: "Title"
+    image: http://placehold.it/350x250
+    image_alt: "image"
+    text: "Some text here."
+  - title: "Another Title"
+    text: "More text here."
 ---
 
 NSWC Corona Division has served as the Navy's independent assessment agent since 1964. With experience in gauging the Navy's warfighting capability, NSWC Corona is positioned as a leader in NAVSEA data analytics. Utilizing networked data environments, data analytics and visualization, and measurement technology to bridge the Navy's disparate data, Corona enables informed decision-making for the warfighter. 
