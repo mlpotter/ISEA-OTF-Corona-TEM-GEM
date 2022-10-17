@@ -8,19 +8,19 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "I am a second year Electronics Engineer with NSWC Corona in AR43. I specialize in Machine Learning topics, currently acting as the principal investigator for ISEA of the Future - NSWC Corona."
 feature_row:
-  - image_path: /assets/images/bio-photo.jpg
+  - image_path: 
     title: "Pravin Navik"
     excerpt: "TBD"
     url: https://github.com/mlpotter
     btn_label: "Contact"
     btn_class: "btn--primary"
-  - image_path: /assets/images/bio-photo.jpg
+  - image_path: 
     title: "Ed Schuberg"
     excerpt: "TBD"
     url: https://www.linkedin.com/in/edward-schuberg/
     btn_label: "Contact"
     btn_class: "btn--primary"
-  - image_path: assets/images/MichaelPotter_ProfilePicture.JPG 
+  - image_path:
     title: "Michael Potter"
     excerpt: "TBD"
     url: https://github.com/mlpotter
