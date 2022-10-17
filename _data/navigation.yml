@@ -7,3 +7,5 @@ main:
     url: /templates/
   - title: "Registration"
     url: /registration/
+  - title: "Call"
+    url: /call/
