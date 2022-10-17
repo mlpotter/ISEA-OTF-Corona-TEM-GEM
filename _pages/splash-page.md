@@ -19,7 +19,7 @@ In alignment with this statement, NSWC Corona will host a Technical Exchange Mee
 {% include feature_row %}
 
 # Agenda
-<object data="../assets/files/TEMPLATE - TEM AGENDA.pdf" width="1000" height="1000" type='application/pdf'></object>
+<object data="{{ site.url }}{{ site.baseurl }}/assets/files/TEMPLATE - TEM AGENDA.pdf" width="1000" height="1000" type='application/pdf'></object>
 
 # Deadlines
 <table>
