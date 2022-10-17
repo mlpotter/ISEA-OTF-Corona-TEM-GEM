@@ -1,7 +1,7 @@
 ---
 permalink: /call/
 classes: wide
-layout: splash
+layout: single
 title: "Call For Submissions"
 sidebar:
   - title: "Deadlines"
