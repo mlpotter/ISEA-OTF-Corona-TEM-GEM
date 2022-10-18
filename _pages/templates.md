@@ -16,7 +16,7 @@ feature_row:
     btn_label: "Download"
     btn_class: "btn--primary"
   - image_path: /assets/images/templates/PA.png
-    title: "PA Poster Template"
+    title: "Performance Assessment"
     excerpt: "PA Poster Template"
     url: https://drive.google.com/uc?export=download&id=17-4Dwv1qdwt9y3Yhcp7o2GhU7Czv3Huz
     btn_label: "Download"
