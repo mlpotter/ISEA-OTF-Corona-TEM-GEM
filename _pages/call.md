@@ -42,12 +42,9 @@ The event is tentatively planned for Februrary 22-23, 2023. We encourage all NSW
 Interested in showcasing your exciting and innovative Corona projects?  Enterprise ISEA of the Future - Corona is currently looking for poster presenters for our upcoming Technical Exchange Meeting (TEM) hosted in-person! Join us by showcasing your hard work, innovation, and technical skills. 
 
 The *deadline* to sign up as a presenter is COB ______, 2022. The deadline to submit your poster is COB ______, 2022. If you have any questions/concerns, please contact the team at _____@navy.mil
-              
-<a class="btn btn-primary" href="#https://www.corona-tem.com/registration/" role="button">Register</a>
-<a class="btn btn-primary" href="https://www.corona-tem.com/registration/" role="button">Register2</a>
 
-[Register](#https://www.corona-tem.com/registration/){: .btn .btn--info}
-[Poster/Presentation Templates](#https://www.corona-tem.com/templates/){: .btn .btn--info}
+[Register](https://www.corona-tem.com/registration/){: .btn .btn--info}
+[Poster/Presentation Templates](https://www.corona-tem.com/templates/){: .btn .btn--info}
 
 ## Call for Attendees/Viewers (All Hands):
 
