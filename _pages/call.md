@@ -36,4 +36,16 @@ sidebar:
               <td>50</td>
             <tr>
 ---
-Call for submissions will outline ...
+The event is tentatively planned for Februrary 22-23, 2023. We encourage all NSWC Corona personnel, experts and novices alike, to answer the call for submissions. All technical projects from all departments are allowed!
+       
+## Call for Poster Presentations/Tutorials (NSWC Corona Only):
+Interested in showcasing your exciting and innovative Corona projects?  Enterprise ISEA of the Future - Corona is currently looking for poster presenters for our upcoming Technical Exchange Meeting (TEM) hosted in-person! Join us by showcasing your hard work, innovation, and technical skills. 
+
+The *deadline* to sign up as a presenter is COB ______, 2022. The deadline to submit your poster is COB ______, 2022. If you have any questions/concerns, please contact the team at _____@navy.mil
+
+Register Now: https://www.corona-tem.com/registration/
+
+## Call for Attendees/Viewers (All Hands):
+
+Do you feel that you work in a bubble? Are you unsure of what projects occur outside your branch? Or maybe you are interested in collaboration efforts with other Departments? Well you are in luck! Register on our website if you would like to attend. If you have any questions/concerns, please contact the team at _____@navy.mil
+
