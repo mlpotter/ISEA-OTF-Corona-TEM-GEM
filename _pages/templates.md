@@ -27,6 +27,12 @@ feature_row:
     url: https://drive.google.com/uc?export=download&id=1Z8KaMpmJ5wFgAP_D6hmDOKEFBlHR51uA
     btn_label: "Download"
     btn_class: "btn--primary"
+  - image_path: /assets/images/speaker_audience.jpg
+    title: "PowerPoint Template"
+    excerpt: "Keynote Speakers and Tutorials"
+    url: https://drive.google.com/uc?export=download&id=1mjMsgP1a30Er2_-ASdMzaxVOtbQ_NZAJ
+    btn_label: "Download"
+    btn_class: "btn--primary"
 ---
 Each technical department conducting research and development for NSWC Corona has a unique poster and presentation template. You may change template characteristics such  as font size, location of text boxes, the content within the text boxes, and distribution statements. Do not change template characteristics such as the text boxes' headers, the coloring of the templates, the templates' title pictures.
 {% include feature_row %}
