@@ -37,6 +37,7 @@ sidebar:
             <tr>
 ---
 The event is tentatively planned for Februrary 22-23, 2023. We encourage all NSWC Corona personnel, experts and novices alike, to answer the call for submissions. All technical projects from all departments are allowed! 
+              
 [Register Now](https://www.corona-tem.com/registration/){: .btn .btn--info}              
        
 ## Call for Poster Presentations/Tutorials (NSWC Corona Only):
@@ -45,6 +46,7 @@ Are you interested in presenting your exciting and innovative Corona projects?  
 The **deadline** to register via our website as a presenter is COB ______, 2023. The deadline to submit your poster is close of business ______, 2022.
               
 Please email all poster and lecture submissions to _____@navy.mil in accordance with the deadlines.
+              
 [Poster/Presentation Templates](https://www.corona-tem.com/templates/){: .btn .btn--info}
 
 ## Call for Attendees/Viewers (All Hands):
