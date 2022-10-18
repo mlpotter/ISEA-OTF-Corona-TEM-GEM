@@ -9,7 +9,7 @@ author:
   bio    : "I am a second year Electronics Engineer with NSWC Corona in AR43. I specialize in Machine Learning topics, currently acting as the principal investigator for ISEA of the Future - NSWC Corona."
 feature_row:
   - image_path: 
-    title: "Pravin Navik"
+    title: "Pravin Naik"
     excerpt: "TBD"
     url: https://github.com/mlpotter
     btn_label: "Contact"
