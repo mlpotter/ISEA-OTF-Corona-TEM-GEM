@@ -28,8 +28,8 @@ feature_row:
     btn_label: "Download"
     btn_class: "btn--primary"
   - image_path: /assets/images/speaker_audience.jpg
-    title: "PowerPoint Template"
-    excerpt: "Keynote Speakers and Tutorials"
+    title: "Keynote Speakers and Tutorials"
+    excerpt: "PowerPoint Template"
     url: https://drive.google.com/uc?export=download&id=1mjMsgP1a30Er2_-ASdMzaxVOtbQ_NZAJ
     btn_label: "Download"
     btn_class: "btn--primary"
