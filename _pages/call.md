@@ -48,6 +48,7 @@ The **deadline** to register as a presenter is close of business ______, 2023. T
 Please email all poster and lecture submissions to _____@navy.mil in accordance with the deadlines.
 
 Posters will be professionally printed using NSWC Corona's multimedia printing lab. Please use the following template to submit your poster.
+              
 [Poster/Presentation Templates](https://www.corona-tem.com/templates/){: .btn .btn--info}
 
 ## Call for Attendees/Viewers (All Hands):
