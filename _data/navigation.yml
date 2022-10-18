@@ -5,7 +5,7 @@ main:
     url: /about/
   - title: "Templates"
     url: /templates/
-  - title: "Registration"
+  - title: "Register"
     url: /registration/
   - title: "Submit"
     url: /submission/
