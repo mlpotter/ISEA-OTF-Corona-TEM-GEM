@@ -11,20 +11,26 @@ feature_row:
   - image_path: 
     title: "Pravin Naik"
     excerpt: "TBD"
-    url: https://github.com/mlpotter
-    btn_label: "Contact"
+    url: https://www.linkedin.com/in/pnaik98/
+    btn_label: "More Info"
     btn_class: "btn--primary"
   - image_path: 
     title: "Ed Schuberg"
     excerpt: "TBD"
     url: https://www.linkedin.com/in/edward-schuberg/
-    btn_label: "Contact"
+    btn_label: "More Info"
     btn_class: "btn--primary"
   - image_path:
     title: "Michael Potter"
     excerpt: "TBD"
     url: https://github.com/mlpotter
-    btn_label: "Contact"
+    btn_label: "More Info"
+    btn_class: "btn--primary"
+  - image_path:
+    title: "Nicole Chik"
+    excerpt: "TBD"
+    url: https://www.linkedin.com/in/nicoledumbroff/
+    btn_label: "More Info"
     btn_class: "btn--primary"
 ---
 # About
