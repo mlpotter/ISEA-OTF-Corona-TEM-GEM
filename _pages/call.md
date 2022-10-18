@@ -1,5 +1,5 @@
 ---
-permalink: /call/
+permalink: /submission/
 classes: wide
 layout: single
 title: "Call For Submissions"
