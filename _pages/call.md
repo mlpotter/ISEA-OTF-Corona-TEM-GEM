@@ -53,8 +53,9 @@ Please use the following poster template to submit your poster.
 ## Call for Tutorials (NSWC Corona Only):
 Do you have a passion for teaching? Enterprise ISEA of the Future - Corona will educate the next generation of the workforce with introductory to cutting-edge class material in topics such as ____. Tutorial lecturers must submit a 300 word maximum class curriculum summary.
 * The **deadline** to register as a Tutorial lecturer is close of business ______, 2023. 
+* Tutorial lecturers' **deadline** to submit an class curriculum summary is by close of business _____, 2023
 * The **deadline** to register for a class is close of business ______, 2023.        
-* The **deadline** to submit lecturer is close of business ______, 2023.  
+* The **deadline** to submit your Tutorial is close of business ______, 2023.  
 Email all abstracts and tutorial submissions to _____@navy.mil in accordance with the deadlines. 
         
 Please use the following PowerPoint template to submit your tutorial material.
