@@ -75,6 +75,7 @@ plugins:
 
 footer:
   links:
+    - title: Distribution A
     - label: "Linkedin"
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/company/navseacorona/mycompany/"
