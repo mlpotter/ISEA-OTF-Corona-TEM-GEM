@@ -41,7 +41,7 @@ The event is tentatively planned for Februrary 22-23, 2023. We encourage all NSW
 [Register Now](https://www.corona-tem.com/registration/){: .btn .btn--info}              
        
 ## Call for Poster Presentations (NSWC Corona Only):
-Are you interested in presenting your exciting and innovative Corona projects?  Enterprise ISEA of the Future - Corona is currently looking for poster presenters and lecturers for our upcoming Technical Exchange Meeting (TEM) hosted in-person! Join us by showcasing your hard work, innovation, and technical skills. Poster presenters are expected to write a 400 word maximum abstract outlining the technical content of the poster material.
+Are you interested in presenting your exciting and innovative Corona projects?  Enterprise ISEA of the Future - Corona is currently looking for poster presenters for our upcoming Technical Exchange Meeting (TEM) hosted in-person! Join us by showcasing your hard work, innovation, and technical skills. Poster presenters are expected to write a 400 word maximum abstract outlining the technical content of the poster material.
 * The **deadline** to register as a presenter is close of business ______, 2023. 
 * Poster presenters' **deadline** to submit an abstract is by close of business _____, 2023
 * The **deadline** to submit your poster is close of business ______, 2023.
