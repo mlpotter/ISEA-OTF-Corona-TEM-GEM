@@ -49,6 +49,7 @@ Are you interested in presenting your exciting and innovative Corona projects?  
 Email all abstracts and posters submissions to _____@navy.mil in accordance with the deadlines. Our team will professionally print poster submissions using NSWC Corona's multimedia printing lab. 
               
 Please use the following poster template to submit your poster.
+              
 [Poster Templates](https://www.corona-tem.com/templates/){: .btn .btn--info}
 ## Call for Tutorials (NSWC Corona Only):
 Do you have a passion for teaching? Enterprise ISEA of the Future - Corona will educate the next generation of the workforce with introductory to cutting-edge class material in topics such as ____. Tutorial lecturers must submit a 300 word maximum class curriculum summary.
@@ -60,6 +61,7 @@ Do you have a passion for teaching? Enterprise ISEA of the Future - Corona will 
 Email all abstracts and tutorial submissions to _____@navy.mil in accordance with the deadlines. 
         
 Please use the following PowerPoint template to submit your tutorial material.
+              
 [Presentation Templates](https://www.corona-tem.com/templates/){: .btn .btn--info}
 
 ## Call for Attendees/Viewers (All Hands):
