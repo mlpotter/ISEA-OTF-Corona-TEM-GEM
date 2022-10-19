@@ -46,7 +46,7 @@ Are you interested in presenting your exciting and innovative Corona projects?  
 * Poster presenters' **deadline** to submit a preliminary abstract by close of business _____, 2023
 * The **deadline** to submit your poster is close of business ______, 2023.
 
-Please email all abstracts,posters, and lecture submissions to _____@navy.mil in accordance with the deadlines. Posters will be professionally printed using NSWC Corona's multimedia printing lab. Please use the following template to submit your poster.
+Please email all abstracts, posters, and lecture submissions to _____@navy.mil in accordance with the deadlines. Our team will professionally print poster submissions using NSWC Corona's multimedia printing lab. Please use the following template to submit your poster.
               
 [Poster/Presentation Templates](https://www.corona-tem.com/templates/){: .btn .btn--info}
 ## Call for Attendees/Viewers (All Hands):
