@@ -51,7 +51,3 @@ The purpose of the ISEA Of The Future - Corona Technical Exchange Meeting is to 
     <td>Tutorial Submission</td>
     <td>50</td>
   <tr>
-
-<footer>
-  <p>Distribution A</p>
-</footer>
