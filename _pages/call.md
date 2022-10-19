@@ -49,9 +49,7 @@ Are you interested in presenting your exciting and innovative Corona projects?  
 Please email all abstracts,posters, and lecture submissions to _____@navy.mil in accordance with the deadlines. Posters will be professionally printed using NSWC Corona's multimedia printing lab. Please use the following template to submit your poster.
               
 [Poster/Presentation Templates](https://www.corona-tem.com/templates/){: .btn .btn--info}
-
 ## Call for Attendees/Viewers (All Hands):
-
 Do you feel that you work in a bubble? Are you unsure of what projects occur outside your branch? Or maybe you are interested in collaboration efforts with other Departments? Well, you are in luck! The Enterprise ISEA of the Future – Corona Technical Exchange Meeting will provide the perfect opportunity to learn from your fellow Corona teammates and hopefully inspire new ways to collaborate on future projects. Register on our website if you would like to attend. 
 * The **deadline** to register as an attendee is close of business ______, 2023. You do not need to register as attendee if you are registering as a presenter.
 ## Questions or Concerns
