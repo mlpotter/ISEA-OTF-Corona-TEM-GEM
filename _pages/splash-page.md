@@ -53,7 +53,7 @@ Recently, AI/ML pioneers like Andrew Ng argue that changing a businesses' AI cul
     <div class="row">
         <div class="column" style="background-color:#FFB695;">
             <h2>Data-Centric AI</h2>
-            <p>Data..</p>
+            <p>Data-Centric AI central objective is data, where rather than gathering more data there is an investment on data quality tools to clean and annotate data. Data consistency is critical for success, where code/algorithms are fixed but data quality is iteratively improved. </p>
         </div>
         <div class="column" style="background-color:#96D1CD;">
             <h2>Model-Centric AI</h2>
