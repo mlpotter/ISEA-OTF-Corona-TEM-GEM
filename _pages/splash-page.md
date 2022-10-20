@@ -17,7 +17,8 @@ excerpt: "NSWC Corona’s Strategic Plan 2030 details how the Navy will provide 
 {% include feature_row %}
 # Vision 
 The purpose of the ISEA Of The Future - Corona Technical Exchange Meeting is to promote cross collaboration between departments, divisions, and branches to truly embody the phrase **"One Team"**. We hope to feature NSWC Corona's technical capabilities and break down division-level silos by shining a light on what our exemplary scientists and engineers research and develop daily
-# Data Centric AI
+
+# Tracks
 <html>
  <head>
     <style>
