@@ -19,7 +19,7 @@ excerpt: "NSWC Corona’s Strategic Plan 2030 details how the Navy will provide 
 The purpose of the ISEA Of The Future - Corona Technical Exchange Meeting is to promote cross collaboration between departments, divisions, and branches to truly embody the phrase **"One Team"**. We hope to feature NSWC Corona's technical capabilities and break down division-level silos by shining a light on what our exemplary scientists and engineers research and develop daily
 
 # Tracks
-It may be argued that Machine Learning and Artificial Intelligence (AI/ML) may be divided into two high-level components:
+It may be argued that Machine Learning and Artificial Intelligence (AI/ML) is divided into two high-level components:
 1. Training data that is collected, stored, managed, cleaned, and propogated
 2. Statistical model(s) that are fitted from the training data for which we iteratively experiment and optimize performance metrics
 
