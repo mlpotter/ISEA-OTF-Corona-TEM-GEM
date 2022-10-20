@@ -62,8 +62,9 @@ Recently, AI/ML pioneers like Andrew Ng argue that changing a businesses' AI cul
     </div>
  </body>
 </html>
+
 <p align="center">
-  <img src="https://github.com/mlpotter/ISEA-OTF-Corona-TEM-GEM/assets/images/modelcentric_vs_datacentric.JPG" />
+  <img src="ISEA-OTF-Corona-TEM-GEM/assets/images/modelcentric_vs_datacentric.JPG" />
 </p>
 
 # Agenda
