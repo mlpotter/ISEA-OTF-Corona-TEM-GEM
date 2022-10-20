@@ -63,6 +63,8 @@ Recently, AI/ML pioneers like Andrew Ng argue that changing a businesses' AI cul
  </body>
 </html>
 
+![Morpheus From Matrix](assets/images/modelcentric_vs_datacentric.JPG?raw=true "Morpheus Offers You Data-Centric AI vs Model-Centric AI")
+
 
 # Agenda
 <object data="{{ site.url }}{{ site.baseurl }}/assets/files/TEMPLATE - TEM AGENDA.pdf" width="1000" height="1000" type='application/pdf'></object>
