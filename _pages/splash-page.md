@@ -66,6 +66,7 @@ Recently, AI/ML pioneers, including e.g. Andrew Ng, argue that changing a busine
 <html>
 <p align="center">
       <img src="https://drive.google.com/uc?export=view&id=172WFQdXrounFQKn4cA9sliTfRi_0j1r5" width="100%" height="40%">
+      <figcaption><a href="https://medium.datadriveninvestor.com/data-centric-vs-model-centric-ai-from-a-statistical-viewpoint-ece58a676e4b"> Image Source</a> </figcaption>
 </p>
 </html>
 
