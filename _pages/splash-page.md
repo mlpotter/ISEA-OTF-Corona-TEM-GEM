@@ -53,11 +53,11 @@ Recently, AI/ML pioneers like Andrew Ng argue that changing a businesses' AI cul
  <body>
     <div class="row">
         <div class="column" style="background-color:#FFB695;">
-            <h2>Data Centric AI</h2>
+            <h2>Data-Centric AI</h2>
             <p>Data..</p>
         </div>
         <div class="column" style="background-color:#96D1CD;">
-            <h2>Model Centric AI</h2>
+            <h2>Model-Centric AI</h2>
             <p>Data..</p>
         </div>
     </div>
