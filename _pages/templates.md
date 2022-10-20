@@ -10,7 +10,7 @@ feature_row:
     btn_label: "Download"
     btn_class: "btn--primary"
   - image_path: /assets/images/templates/RS.png
-    title: "Data-Centric AI
+    title: "Data-Centric AI"
     excerpt: "Do you change your data?"
     url: https://drive.google.com/uc?export=download&id=1cSyVyW5MjCeGY5lZHxahnMjcvv6dCQZy
     btn_label: "Download"
