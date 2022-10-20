@@ -65,7 +65,7 @@ Recently, AI/ML pioneers like Andrew Ng argue that changing a businesses' AI cul
 
 <html>
 <p align="center">
-      <img src="https://drive.google.com/uc?export=view&id=172WFQdXrounFQKn4cA9sliTfRi_0j1r5">
+      <img src="https://drive.google.com/uc?export=view&id=172WFQdXrounFQKn4cA9sliTfRi_0j1r5" width="100%" height="80%">
 </p>
 </html>
 
