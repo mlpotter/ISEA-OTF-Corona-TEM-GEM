@@ -19,6 +19,11 @@ excerpt: "NSWC Corona’s Strategic Plan 2030 details how the Navy will provide 
 The purpose of the ISEA Of The Future - Corona Technical Exchange Meeting is to promote cross collaboration between departments, divisions, and branches to truly embody the phrase **"One Team"**. We hope to feature NSWC Corona's technical capabilities and break down division-level silos by shining a light on what our exemplary scientists and engineers research and develop daily
 
 # Tracks
+It may be argued that Machine Learning and Artificial Intelligence (AI/ML) may be divided into two high-level components:
+1. Training data that is collected, stored, managed, cleaned, and propogated
+2. Statistical model(s) that are fitted from the training data for which we iteratively experiment and optimize performance metrics
+
+Recently, AI/ML pioneers like Andrew NG argue that changing a businesses' AI culture to data-centric AI is the most important cultural shift to maximize the benefits from AI systems. If data is meticulously handled to maximize quality, AI systems may train effectively on smaller datasets. As Andrew Ng explains, "it’s often been the cleverness of an individual's skill, or luck with an individual engineer, that determines whether ad hoc data curation gets done well. Making this more systematic through principles and [the use of tools] will help a lot of teams build more AI systems.” Despite this, model-centric AI seems to ring true in the research communities, where frequently the biggest and baddest model architecture is published (recently diffusion-based models and Transformers). Model-centric AI is no joke, and has been the dominant viewpoint of the AI community since arguably the mid 2000s. Which side of the AI community do you stand on?
 <html>
  <head>
     <style>
