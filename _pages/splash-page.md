@@ -29,6 +29,7 @@ The purpose of the ISEA Of The Future - Corona Technical Exchange Meeting is to 
     .column {
     float: left;
     width: 50%;
+    padding: 0 0 0 0;
     }
 
     .row:after {
