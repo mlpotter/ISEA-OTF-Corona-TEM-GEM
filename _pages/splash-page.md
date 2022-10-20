@@ -63,9 +63,11 @@ Recently, AI/ML pioneers like Andrew Ng argue that changing a businesses' AI cul
  </body>
 </html>
 
+<html>
 <p align="center">
-  <img src="ISEA-OTF-Corona-TEM-GEM/assets/images/modelcentric_vs_datacentric.JPG" />
+  <img src="/ISEA-OTF-Corona-TEM-GEM/assets/images/modelcentric_vs_datacentric.JPG" >
 </p>
+</html>
 
 # Agenda
 <object data="{{ site.url }}{{ site.baseurl }}/assets/files/TEMPLATE - TEM AGENDA.pdf" width="1000" height="1000" type='application/pdf'></object>
