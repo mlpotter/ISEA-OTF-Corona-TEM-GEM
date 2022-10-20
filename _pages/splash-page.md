@@ -35,6 +35,10 @@ The purpose of the ISEA Of The Future - Corona Technical Exchange Meeting is to 
     display: table;
     clear: both;
     }
+      
+    h2.headertekst {
+       text-align: center;
+    }
     </style>
  </head>
  <body>
