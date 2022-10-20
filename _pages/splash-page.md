@@ -24,7 +24,6 @@ It may be argued that Machine Learning and Artificial Intelligence (AI/ML) may b
 2. Statistical model(s) that are fitted from the training data for which we iteratively experiment and optimize performance metrics
 
 Recently, AI/ML pioneers like Andrew Ng argue that changing a businesses' AI culture to data-centric AI is the most important cultural shift to maximize the benefits from AI systems. If data is meticulously handled to maximize quality, AI systems may train effectively on smaller datasets. As Andrew Ng explains, "it’s often been the cleverness of an individual's skill, or luck with an individual engineer, that determines whether ad hoc data curation gets done well. Making this more systematic through principles and [the use of tools] will help a lot of teams build more AI systems.” Despite this, model-centric AI seems to ring true in the research communities, where frequently the biggest and baddest model architecture is published (recently diffusion-based models and Transformers). Model-centric AI is no joke, and has been the dominant viewpoint of the AI community since arguably the mid 2000s. ***The question is, which side of the AI community do you stand on?***
-![image](https://user-images.githubusercontent.com/35242331/197048731-c9025ff5-fd8a-4c73-aeeb-c745ff35e723.png)
 
 <html>
  <head>
