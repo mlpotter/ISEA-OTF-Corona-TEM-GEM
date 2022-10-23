@@ -11,7 +11,9 @@ main:
     url: /registration/
     
   - title: "Call for Submission"
-    url: /submission/
+    url:
     children:
+      - title: "Submission Details"
+        url: /submission/
       - title: "Templates"
         url: /templates/
