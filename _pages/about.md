@@ -33,13 +33,10 @@ feature_row:
     btn_label: "More Info"
     btn_class: "btn--primary"
 ---
-# About
+<h2 style="text-align:center">About</h2>
 NSWC Corona Division has served as the Navy's independent assessment agent since 1964. With experience in gauging the Navy's warfighting capability, NSWC Corona is positioned as a leader in NAVSEA data analytics. Utilizing networked data environments, data analytics and visualization, and measurement technology to bridge the Navy's disparate data, Corona enables informed decision-making for the warfighter. 
 
 NSWC Corona Technical Exchange Meeting offers a platform for organizations to present technological advancements and innovations. The primary interest areas for this Technical Exchange Meeting include: Assured Identity, Automation, MLOps, Security & Operations (DevSecOps), Fifth Generation Wireless (5G), Machine Learning & Artificial Intelligence (ML & AI), Industry 4.0, and Material Sciences.
-
-# Meet The Team
-{% include feature_row %}
 
 <html>
 <head>
@@ -68,13 +65,6 @@ html {
 .card {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
   margin: 8px;
-}
-
-.about-section {
-  padding: 50px;
-  text-align: center;
-  background-color: #474e5d;
-  color: white;
 }
 
 .container {
@@ -117,20 +107,14 @@ html {
 </head>
 <body>
 
-<div class="about-section">
-  <h1>About Us Page</h1>
-  <p>Some text about who we are and what we do.</p>
-  <p>Resize the browser window to see that this page is responsive by the way.</p>
-</div>
-
 <h2 style="text-align:center">Our Team</h2>
 <div class="row">
   <div class="column">
     <div class="card">
-      <img src="/w3images/team1.jpg" alt="Jane" style="width:100%">
+      <img src="https://github.com/mlpotter/ISEA-OTF-Corona-TEM-GEM/blob/master/assets/images/bio-photo.jpg" alt="Jane" style="width:100%">
       <div class="container">
-        <h2>Jane Doe</h2>
-        <p class="title">CEO & Founder</p>
+        <h2>Ed Schuberg</h2>
+        <p class="title">Co Principal Investigator</p>
         <p>Some text that describes me lorem ipsum ipsum lorem.</p>
         <p>jane@example.com</p>
         <p><button class="button">Contact</button></p>
@@ -140,10 +124,10 @@ html {
 
   <div class="column">
     <div class="card">
-      <img src="/w3images/team2.jpg" alt="Mike" style="width:100%">
+      <img src="https://github.com/mlpotter/ISEA-OTF-Corona-TEM-GEM/blob/master/assets/images/bio-photo.jpg" alt="Mike" style="width:100%">
       <div class="container">
-        <h2>Mike Ross</h2>
-        <p class="title">Art Director</p>
+        <h2>Pravin Naik</h2>
+        <p class="title">Co Principal Investigator</p>
         <p>Some text that describes me lorem ipsum ipsum lorem.</p>
         <p>mike@example.com</p>
         <p><button class="button">Contact</button></p>
@@ -153,10 +137,10 @@ html {
   
   <div class="column">
     <div class="card">
-      <img src="/w3images/team3.jpg" alt="John" style="width:100%">
+      <img src="https://github.com/mlpotter/ISEA-OTF-Corona-TEM-GEM/blob/master/assets/images/bio-photo.jpg" alt="John" style="width:100%">
       <div class="container">
-        <h2>John Doe</h2>
-        <p class="title">Designer</p>
+        <h2>Nicole Chik</h2>
+        <p class="title">Co Principal Investigator</p>
         <p>Some text that describes me lorem ipsum ipsum lorem. I love apple pie my best favoriate card</p>
         <p>john@example.com</p>
         <p><button class="button">Contact</button></p>
@@ -164,6 +148,19 @@ html {
     </div>
   </div>
 </div>
-
+<div class="row">
+  <div class="column">
+    <div class="card">
+      <img src="https://github.com/mlpotter/ISEA-OTF-Corona-TEM-GEM/blob/master/assets/images/bio-photo.jpg" alt="Jane" style="width:100%">
+      <div class="container">
+        <h2>Michael Potter</h2>
+        <p class="title">Principal Investigator</p>
+        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
+        <p>jane@example.com</p>
+        <p><button class="button">Contact</button></p>
+      </div>
+    </div>
+  </div>
+</div>
 </body>
 </html>
