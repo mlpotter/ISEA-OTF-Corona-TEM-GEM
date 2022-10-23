@@ -1,11 +1,18 @@
 main:
   - title: "Home"
     url: /
+    
   - title: "About"
     url: /about/
+    
   - title: "Templates"
+  
     url: /templates/
   - title: "Register"
     url: /registration/
-  - title: "Submit"
+    
+  - title: "Call for Submission"
     url: /submission/
+    children:
+      - title: "Templates"
+        url: /templates/
