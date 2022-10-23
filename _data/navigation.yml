@@ -1,6 +1,8 @@
 main:
-  - title: "Home"
-    url: /
+  #- title: "Home"
+  #  url: /   
+  # - title: "Templates"
+  #  url: /templates/
     
   - title: "About"
     url: /about/
