@@ -98,7 +98,7 @@ html {
 }
 
 .img {
-    float: left;
+    float: center;
     width:  100px;
     height: 100px;
     object-fit: cover;
@@ -144,7 +144,7 @@ html {
   
   <div class="column">
     <div class="card">
-      <img src="{{ site.url }}{{ site.baseurl }}/assets/images/bio-photo.jpg" alt="Nicole">
+      <img src="{{ site.url }}{{ site.baseurl }}/assets/images/MichaelPotter_ProfilePicture.JPG" alt="Nicole">
       <div class="container">
         <h2>Nicole Chik</h2>
         <p class="title">Co Principal Investigator</p>
