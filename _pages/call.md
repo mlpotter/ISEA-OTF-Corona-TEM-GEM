@@ -12,45 +12,45 @@ sidebar:
             </tr>
             <tr>
               <td>Register</td>
-              <td>50</td>
+              <td>??/??/??</td>
             </tr>
             <tr>
               <td>Abstract Submission</td>
-              <td>50</td>
+              <td>??/??/??</td>
             </tr>
             <tr>
               <td>Poster Submission</td>
-              <td>50</td>
+              <td>??/??/??</td>
             </tr>
             <tr>
               <td>Lecture Submission</td>
-              <td>50</td>
+              <td>??/??/??</td>
             </tr>
             <tr>
               <th colspan="3">Tutorial Instructors</th>
             </tr> 
             <tr>
               <td>Register</td>
-              <td>50</td>
+              <td>??/??/??</td>
             </tr>
             <tr>
               <td>Curriculum Submission</td>
-              <td>50</td>
+              <td>??/??/??</td>
             </tr>
             <tr>
               <td>Tutorial Submission</td>
-              <td>50</td>
+              <td>??/??/??</td>
             </tr>
             <tr>
               <th colspan="3">Attendees</th>
             </tr>
             <tr>
               <td>Register</td>
-              <td>50</td>
+              <td>??/??/??</td>
             </tr>
             <tr>
               <td>Tutorial Registration</td>
-              <td>50</td>
+              <td>??/??/??</td>
             </tr>
 ---
 The event is tentatively planned for Februrary 22-23, 2023. We encourage all NSWC Corona personnel, experts and novices alike, to answer the call for submissions. All technical projects from all departments are allowed! 
