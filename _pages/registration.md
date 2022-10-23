@@ -1,5 +1,5 @@
 ---
-permalink: /registration/
+permalink: /submission/templates/
 title: "Registration Form"
 classes: wide
 sidebar:
