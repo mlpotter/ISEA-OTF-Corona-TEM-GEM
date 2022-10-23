@@ -12,8 +12,8 @@ header:
       url: https://drive.google.com/uc?export=download&id=1fnAMA6lX26rd8h6g7stnLgugGmLAXfFQ
 excerpt: "NSWC Corona’s Strategic Plan 2030 details how the Navy will provide advanced data analytics while fostering an engaged and innovative workforce. In alignment with this statement, ISEA Of The Future - Corona will host a Technical Exchange Meeting where team members across all departments, divisions, and branches may unite to showcase their innovations. We encourage all NSWC Corona personnel, experts and novices alike, to answer the call for submissions."
 ---
-{% include toc %}
 {% include feature_row id="intro" type="center" %}
+<a href="#Deadline-Id">Deadline</a> [Deadlines](#Deadline-Id){: .btn .btn--info}
 
 {% include feature_row %}
 <h1 style="text-align:center">Vision</h1>
@@ -74,7 +74,7 @@ Recently, AI/ML pioneers, including e.g. Andrew Ng, argue that changing a busine
 <h1 style="text-align:center">Agenda</h1>
 <object data="{{ site.url }}{{ site.baseurl }}/assets/files/TEMPLATE - TEM AGENDA.pdf" width="1000" height="1000" type='application/pdf'></object>
 
-<h1 style="text-align:center">Deadlines</h1>
+<h1 id="Deadline-Id" style="text-align:center">Deadlines</h1>
 <table>
   <tr>
     <th colspan="3">Presenters</th>
