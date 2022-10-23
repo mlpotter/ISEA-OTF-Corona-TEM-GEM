@@ -111,7 +111,7 @@ html {
 <div class="row">
   <div class="column">
     <div class="card">
-      <img src="https://github.com/mlpotter/ISEA-OTF-Corona-TEM-GEM/blob/master/assets/images/bio-photo.jpg" alt="Jane" style="width:100%">
+      <img src="{{ site.url }}{{ site.baseurl }}/ISEA-OTF-Corona-TEM-GEM/assets/images/bio-photo.jpg" alt="Ed" style="width:100%">
       <div class="container">
         <h2>Ed Schuberg</h2>
         <p class="title">Co Principal Investigator</p>
@@ -124,7 +124,7 @@ html {
 
   <div class="column">
     <div class="card">
-      <img src="https://github.com/mlpotter/ISEA-OTF-Corona-TEM-GEM/blob/master/assets/images/bio-photo.jpg" alt="Mike" style="width:100%">
+      <img src="{{ site.url }}{{ site.baseurl }}/ISEA-OTF-Corona-TEM-GEM/assets/images/bio-photo.jpg" alt="Pravin" style="width:100%">
       <div class="container">
         <h2>Pravin Naik</h2>
         <p class="title">Co Principal Investigator</p>
@@ -137,7 +137,7 @@ html {
   
   <div class="column">
     <div class="card">
-      <img src="./ISEA-OTF-Corona-TEM-GEM/assets/images/bio-photo.jpg" alt="John" style="width:100%">
+      <img src="{{ site.url }}{{ site.baseurl }}/ISEA-OTF-Corona-TEM-GEM/assets/images/bio-photo.jpg" alt="Nicole" style="width:100%">
       <div class="container">
         <h2>Nicole Chik</h2>
         <p class="title">Co Principal Investigator</p>
@@ -151,7 +151,7 @@ html {
 <div class="row">
   <div class="column">
     <div class="card">
-      <img src="https://github.com/mlpotter/ISEA-OTF-Corona-TEM-GEM/blob/master/assets/images/bio-photo.jpg" alt="Jane" style="width:100%">
+      <img src="{{ site.url }}{{ site.baseurl }}/ISEA-OTF-Corona-TEM-GEM/assets/images/bio-photo.jpg" alt="Michael" style="width:100%">
       <div class="container">
         <h2>Michael Potter</h2>
         <p class="title">Principal Investigator</p>
