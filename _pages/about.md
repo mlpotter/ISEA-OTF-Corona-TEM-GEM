@@ -111,7 +111,7 @@ html {
 <div class="row">
   <div class="column">
     <div class="card">
-      <img src="{{ site.url }}{{ site.baseurl }/assets/images/bio-photo.jpg" alt="Ed" style="width:100%">
+      <img src="{{ site.url }}{{ site.baseurl }}/assets/images/bio-photo.jpg" alt="Ed" style="width:100%">
       <div class="container">
         <h2>Ed Schuberg</h2>
         <p class="title">Co Principal Investigator</p>
