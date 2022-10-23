@@ -22,8 +22,6 @@ sidebar:
               <td>Poster Submission</td>
               <td>50</td>
             </tr>
-              <th colspan="3">Keynote Speakers</th>
-            </tr>
             <tr>
               <td>Lecture Submission</td>
               <td>50</td>
@@ -31,7 +29,7 @@ sidebar:
             <tr>
               <th colspan="3">Tutorial Instructors</th>
             </tr> 
-             <tr>
+            <tr>
               <td>Register</td>
               <td>50</td>
             </tr>
@@ -44,7 +42,7 @@ sidebar:
               <td>50</td>
             </tr>
             <tr>
-              <th colspan="3">Attendee</th>
+              <th colspan="3">Attendees</th>
             </tr>
             <tr>
               <td>Register</td>
