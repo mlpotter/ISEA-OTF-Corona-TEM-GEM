@@ -16,10 +16,10 @@ toc: true
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
-# Vision 
+<h1 style="text-align:center">Vision</h1>
 The purpose of the ISEA Of The Future - Corona Technical Exchange Meeting is to promote cross collaboration between departments, divisions, and branches to truly embody the phrase **"One Team"**. We hope to feature NSWC Corona's technical capabilities and break down division-level silos by shining a light on what our exemplary scientists and engineers research and develop daily
 
-# Tracks
+<h1 style="text-align:center">TEM Tracks</h1>
 It may be argued that Machine Learning and Artificial Intelligence (ML/AI) is divided into two high-level components:
 1. Training data that is collected, stored, managed, cleaned, and propogated
 2. Statistical model(s) that are fitted from the training data for which we iteratively experiment and optimize performance metrics
@@ -71,10 +71,10 @@ Recently, AI/ML pioneers, including e.g. Andrew Ng, argue that changing a busine
 </p>
 </html>
 
-# Agenda
+<h1 style="text-align:center">Agenda</h1>
 <object data="{{ site.url }}{{ site.baseurl }}/assets/files/TEMPLATE - TEM AGENDA.pdf" width="1000" height="1000" type='application/pdf'></object>
 
-# Deadlines
+<h1 style="text-align:center">Deadlines</h1>
 <table>
   <tr>
     <th colspan="3">Presenters</th>
