@@ -23,10 +23,6 @@ sidebar:
               <td>??/??/??</td>
             </tr>
             <tr>
-              <td>Lecture Submission</td>
-              <td>??/??/??</td>
-            </tr>
-            <tr>
               <th colspan="3">Tutorial Instructors</th>
             </tr> 
             <tr>
