@@ -1,7 +1,7 @@
 ---
 title: "Templates"
 layout: splash
-permalink: /submission/templates/
+permalink: /templates/
 feature_row:
   - image_path: /assets/images/templates/PA.png
     title: "Model-Centric AI"
