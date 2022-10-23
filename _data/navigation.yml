@@ -14,4 +14,4 @@ main:
     url: /submission/
     children:
       - title: "Templates"
-        url: /submission/templates/
+        url: /templates/
