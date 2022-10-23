@@ -11,6 +11,7 @@ header:
     - label: "Agenda Download"
       url: https://drive.google.com/uc?export=download&id=1fnAMA6lX26rd8h6g7stnLgugGmLAXfFQ
 excerpt: "NSWC Corona’s Strategic Plan 2030 details how the Navy will provide advanced data analytics while fostering an engaged and innovative workforce. In alignment with this statement, ISEA Of The Future - Corona will host a Technical Exchange Meeting where team members across all departments, divisions, and branches may unite to showcase their innovations. We encourage all NSWC Corona personnel, experts and novices alike, to answer the call for submissions."
+toc: true
 ---
 {% include feature_row id="intro" type="center" %}
 
