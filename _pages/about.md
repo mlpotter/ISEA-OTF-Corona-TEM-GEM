@@ -137,7 +137,7 @@ html {
   
   <div class="column">
     <div class="card">
-      <img src="https://github.com/mlpotter/ISEA-OTF-Corona-TEM-GEM/blob/master/assets/images/bio-photo.jpg" alt="John" style="width:100%">
+      <img src="/ISEA-OTF-Corona-TEM-GEM/assets/images/bio-photo.jpg" alt="John" style="width:100%">
       <div class="container">
         <h2>Nicole Chik</h2>
         <p class="title">Co Principal Investigator</p>
