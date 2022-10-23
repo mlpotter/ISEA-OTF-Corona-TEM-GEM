@@ -111,7 +111,7 @@ html {
 <div class="row">
   <div class="column">
     <div class="card">
-      <img src="{{ site.url }}{{ site.baseurl }}/assets/images/bio-photo.jpg" alt="Ed" style="width:200px;height:200px" class="center">
+      <center><img src="{{ site.url }}{{ site.baseurl }}/assets/images/bio-photo.jpg" alt="Ed" style="width:200px;height:200px"></center>
       <div class="container">
         <h2>Ed Schuberg</h2>
         <p class="title">Co Principal Investigator</p>
@@ -124,7 +124,7 @@ html {
 
   <div class="column">
     <div class="card">
-      <img src="{{ site.url }}{{ site.baseurl }}/assets/images/bio-photo.jpg" alt="Pravin" style="width:200px;height:200px" class="center">
+      <center><img src="{{ site.url }}{{ site.baseurl }}/assets/images/bio-photo.jpg" alt="Pravin" style="width:200px;height:200px"></center>
       <div class="container">
         <h2>Pravin Naik</h2>
         <p class="title">Co Principal Investigator</p>
@@ -137,7 +137,7 @@ html {
   
   <div class="column">
     <div class="card">
-      <img src="{{ site.url }}{{ site.baseurl }}/assets/images/MichaelPotter_ProfilePicture.JPG" alt="Nicole" style="width:200px;height:200px" class="center">
+      <center><img src="{{ site.url }}{{ site.baseurl }}/assets/images/bio-photo.jpg" alt="Nicole" style="width:200px;height:200px"></center>
       <div class="container">
         <h2>Nicole Chik</h2>
         <p class="title">Co Principal Investigator</p>
@@ -151,7 +151,7 @@ html {
 <div class="row">
   <div class="column">
     <div class="card">
-      < p <center><img src="{{ site.url }}{{ site.baseurl }}/assets/images/MichaelPotter_ProfilePicture.JPG" alt="Michael" style="width:200px;height:200px"></center>
+      <center><img src="{{ site.url }}{{ site.baseurl }}/assets/images/MichaelPotter_ProfilePicture.JPG" alt="Michael" style="width:200px;height:200px"></center>
       <div class="container">
         <h2>Michael Potter</h2>
         <p class="title">Principal Investigator</p>
