@@ -7,33 +7,51 @@ sidebar:
     image: 
     text: <table> 
             <tr>
-              <th colspan="3">Presenters</th>
+              <th colspan="3">Poster Presenters</th>
+            </tr>
+            <tr>
+              <td>Register</td>
+              <td>??/??/??</td>
             </tr>
             <tr>
               <td>Abstract Submission</td>
-              <td>50</td>
+              <td>??/??/??</td>
             </tr>
             <tr>
               <td>Poster Submission</td>
-              <td>50</td>
-            </tr>
-            <tr>
-              <td>Oral Submission</td>
-              <td>50</td>
-            <tr>
-              <th colspan="3">Keynote Speakers</th>
+              <td>??/??/??</td>
             </tr>
             <tr>
               <td>Lecture Submission</td>
-              <td>50</td>
-            <tr>
+              <td>??/??/??</td>
+            </tr>
             <tr>
               <th colspan="3">Tutorial Instructors</th>
+            </tr> 
+            <tr>
+              <td>Register</td>
+              <td>??/??/??</td>
+            </tr>
+            <tr>
+              <td>Curriculum Submission</td>
+              <td>??/??/??</td>
             </tr>
             <tr>
               <td>Tutorial Submission</td>
-              <td>50</td>
+              <td>??/??/??</td>
+            </tr>
             <tr>
+              <th colspan="3">Attendees</th>
+            </tr>
+            <tr>
+              <td>Register</td>
+              <td>??/??/??</td>
+            </tr>
+            <tr>
+              <td>Tutorial Registration</td>
+              <td>??/??/??</td>
+            </tr>
+          </table>
 ---
 Please enable cookies on the webpage to view the embedded registration form. If you still cannot open the embedded registration form, please use this <a href="https://docs.google.com/forms/d/e/1FAIpQLSfgP6VYTzfb77hLmNBHUnKOH2FcWfTylB8MXRATSOYa5giN2A/viewform?usp=sf_link">link</a>
 
