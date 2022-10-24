@@ -54,7 +54,7 @@ Recently, AI/ML pioneers, including e.g. Andrew Ng, argue that changing a busine
     <div class="row">
        <div class="column" style="background-color:#96D1CD;">
             <h2>Model-Centric Approach </h2>
-            <p>Model-Centric approach central objective is working on code/algorithms, where rather than handling data with care the model architecture is optimized to deal with the noise in data. Data is static after standard preprocessing (entering into databases), but the model is iteratively improved. <br> </p>
+            <p>Model-Centric approach central objective is working on code/algorithms, where rather than handling data with care the model architecture is optimized to deal with the noise in data. Data is static after standard preprocessing (entering into databases), but the model is iteratively improved. </p> <br>
         </div>
         <div class="column" style="background-color:#FFB695;">
             <h2>Data-Centric Approach</h2>
