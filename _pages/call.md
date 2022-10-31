@@ -34,7 +34,7 @@ sidebar:
             </tr>
             <tr>
               <td>Tutorial Registration</td>
-              <td>01/14/2023</td>
+              <td>02/03/2023</td>
             </tr>
             <tr>
               <td>Register</td>
