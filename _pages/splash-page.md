@@ -76,45 +76,37 @@ Recently, AI/ML pioneers, including e.g. Andrew Ng, argue that changing a busine
 
 <h1 id="Deadline-Id" style="text-align:center">Deadlines</h1>
 <table> 
-    <tr>
-      <th colspan="3">Poster Presenters</th>
-    </tr>
-    <tr>
-      <td>Register</td>
-      <td>??/??/??</td>
-    </tr>
-    <tr>
-      <td>Abstract Submission</td>
-      <td>??/??/??</td>
-    </tr>
-    <tr>
-      <td>Poster Submission</td>
-      <td>??/??/??</td>
-    </tr>
-    <tr>
-      <th colspan="3">Tutorial Instructors</th>
-    </tr> 
-    <tr>
-      <td>Register</td>
-      <td>??/??/??</td>
-    </tr>
-    <tr>
-      <td>Curriculum Submission</td>
-      <td>??/??/??</td>
-    </tr>
-    <tr>
-      <td>Tutorial Submission</td>
-      <td>??/??/??</td>
-    </tr>
-    <tr>
-      <th colspan="3">Attendees</th>
-    </tr>
-    <tr>
-      <td>Register</td>
-      <td>??/??/??</td>
-    </tr>
-    <tr>
-      <td>Tutorial Registration</td>
-      <td>??/??/??</td>
-    </tr>
+            <tr>
+              <th colspan="3">Poster Presenters</th>
+            </tr>
+            <tr>
+              <td>Register & Abstract Submission</td>
+              <td>12/16/2023</td>
+            </tr>
+            <tr>
+              <td>Poster Submission</td>
+              <td>01/13/2023</td>
+            </tr>
+            <tr>
+              <th colspan="3">Tutorial Instructors</th>
+            </tr> 
+            <tr>
+              <td>Curriculum Submission</td>
+              <td>12/16/2023</td>
+            </tr>
+            <tr>
+              <td>Tutorial Submission</td>
+              <td>01/13/2023</td>
+            </tr>
+            <tr>
+              <th colspan="3">Attendees</th>
+            </tr>
+            <tr>
+              <td>Tutorial Registration</td>
+              <td>01/14/2023</td>
+            </tr>
+            <tr>
+              <td>Register</td>
+              <td>02/03/2023</td>
+            </tr>
 </table>
