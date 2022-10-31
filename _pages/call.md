@@ -11,42 +11,34 @@ sidebar:
               <th colspan="3">Poster Presenters</th>
             </tr>
             <tr>
-              <td>Register</td>
-              <td>??/??/??</td>
-            </tr>
-            <tr>
-              <td>Abstract Submission</td>
-              <td>??/??/??</td>
+              <td>Register & Abstract Submission</td>
+              <td>12/23/2023</td>
             </tr>
             <tr>
               <td>Poster Submission</td>
-              <td>??/??/??</td>
+              <td>01/13/2023</td>
             </tr>
             <tr>
               <th colspan="3">Tutorial Instructors</th>
             </tr> 
             <tr>
-              <td>Register</td>
-              <td>??/??/??</td>
-            </tr>
-            <tr>
-              <td>Curriculum Submission</td>
-              <td>??/??/??</td>
+              <td>Register & Curriculum Submission</td>
+              <td>12/23/2023</td>
             </tr>
             <tr>
               <td>Tutorial Submission</td>
-              <td>??/??/??</td>
+              <td>01/13/2023</td>
             </tr>
             <tr>
               <th colspan="3">Attendees</th>
             </tr>
             <tr>
               <td>Register</td>
-              <td>??/??/??</td>
+              <td>02/01/2023</td>
             </tr>
             <tr>
               <td>Tutorial Registration</td>
-              <td>??/??/??</td>
+              <td>01/14/2023</td>
             </tr>
         </table>
 ---
