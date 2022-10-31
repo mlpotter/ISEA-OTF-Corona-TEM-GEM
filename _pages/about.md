@@ -115,7 +115,7 @@ html {
       <div class="container">
         <h2>Ed Schuberg</h2>
         <p class="title">Co Principal Investigator</p>
-        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
+        <p>AR43 statistician supporting missile reliability. </p>
         <p>jane@example.com</p>
         <p><button class="button">Contact</button></p>
       </div>
@@ -128,7 +128,7 @@ html {
       <div class="container">
         <h2>Pravin Naik</h2>
         <p class="title">Co Principal Investigator</p>
-        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
+        <p>Mechanical Engineer in MS21 supporting Trident, VLS, and RAM Teams.</p>
         <p>mike@example.com</p>
         <p><button class="button">Contact</button></p>
       </div>
@@ -141,7 +141,7 @@ html {
       <div class="container">
         <h2>Nicole Chik</h2>
         <p class="title">Co Principal Investigator</p>
-        <p>Some text that describes me lorem ipsum ipsum lorem. I love apple pie my best favoriate card</p>
+        <p>Ar43 Stats force leader for weapon system reliability</p>
         <p>john@example.com</p>
         <p><button class="button">Contact</button></p>
       </div>
@@ -155,7 +155,7 @@ html {
       <div class="container">
         <h2>Michael Potter</h2>
         <p class="title">Principal Investigator</p>
-        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
+        <p>AR43 Electronics Engineer who loves reliability and serving the DoD.</p>
         <p>jane@example.com</p>
         <p><button class="button">Contact</button></p>
       </div>
