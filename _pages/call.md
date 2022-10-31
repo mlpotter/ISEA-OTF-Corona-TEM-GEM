@@ -70,7 +70,7 @@ Please use the following PowerPoint template to submit your tutorial material.
 
 ## Call for Attendees/Viewers (All Hands):
 Do you feel that you work in a bubble? Are you unsure of what projects occur outside your branch? Or maybe you are interested in collaboration efforts with other Departments? Well, you are in luck! The Enterprise ISEA of the Future – Corona Technical Exchange Meeting will provide the perfect opportunity to learn from your fellow Corona teammates and hopefully inspire new ways to collaborate on future projects. Register on our website if you would like to attend. 
-* The <u>deadline</u> to register for a class is close of business January 28, 2023.        
+* The <u>deadline</u> to register for a class is close of business February 3, 2023.        
 * The <u>deadline</u> to register as an attendee is close of business February 3, 2023. You do not need to register as attendee if you are registering as a presenter.
 
 ## Questions or Concerns
