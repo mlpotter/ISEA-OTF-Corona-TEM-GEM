@@ -40,7 +40,6 @@ NSWC Corona Technical Exchange Meeting offers a platform for organizations to pr
 
 
 <h2 style="text-align:center">Keynote Speakers</h2>
-<html>
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/bio-photo.jpg" style="float:left;width:200px;height:200px;padding-right: 20px" align="left">
   <p align="justify" style="margin-bottom: 0px;">
     <b>
@@ -75,9 +74,7 @@ NSWC Corona Technical Exchange Meeting offers a platform for organizations to pr
   <br>
   <br clear="both">
   <br>
-</html>
 <h2 style="text-align:center">Organizers</h2>
-<html>
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/MichaelPotter_ProfilePicture.JPG" style="float:left;width:200px;height:200px;padding-right: 20px" align="left">
   <p align="justify" style="margin-bottom: 0px;">
     <b>
@@ -112,4 +109,3 @@ NSWC Corona Technical Exchange Meeting offers a platform for organizations to pr
     </b> is a Scientist in the Acquisition Readiness Data Analytics branch (AR43). More information about this gal will be filled in at an appropriate time when we receive a bio of some sorts, so please be patient and this is a run on sentence. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
   </p>
   <br>
-</html>
