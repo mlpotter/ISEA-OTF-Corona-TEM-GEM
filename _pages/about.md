@@ -42,7 +42,13 @@ NSWC Corona Technical Exchange Meeting offers a platform for organizations to pr
 <h2 style="text-align:center">Keynote Speakers</h2>
 <html>
   
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/bio-photo.jpg" style="float:left;width:200px;height:200px;padding-right: 20px" align="left"> <p align="justify" style="margin-bottom: 0px;"> <b><span style="color: blue;">Taylor Cole</span></b> Chief Technology Officer. More information about this guy will be filled in at an appropriate time when we receive a bio of some sorts, so please be patient and this is a run on sentence. </p> 
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/bio-photo.jpg" style="float:left;width:200px;height:200px;padding-right: 20px" align="left"> <p align="justify" style="margin-bottom: 0px;"> <b><span style="color: blue;">Taylor Cole</span></b> Chief Technology Officer. More information about this guy will be filled in at an appropriate time when we receive a bio of some sorts, so please be patient and this is a run on sentence.
+  
+  
+  
+  
+ 
+ </p> 
 
 <br><br clear="left"><br>
   
