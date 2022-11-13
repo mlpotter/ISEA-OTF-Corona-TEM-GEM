@@ -164,3 +164,26 @@ html {
 </div>
 </body>
 </html>
+
+<html>
+  <div id="content" class="clearfix shadow">
+                <h2>Keynote Speakers:</h2>
+                
+                <img src="{{ site.url }}{{ site.baseurl }}/assets/images/bio-photo.jpg" height="175" width="175" style="float:left; padding-right: 20px" align="left"> <p align="justify"> <b><span style="color: olive;">Taylor Cole</span></b> Chief Technology Officer </p>
+                
+                <br>
+                
+                <h2>Organizers:</h2>
+                                
+                <img src="{{ site.url }}{{ site.baseurl }}/assets/images/bio-photo.jpg" height="175" width="175" style="float:left; padding-right: 20px" align="left"> <p align="justify"> <b><span style="color: olive;">Michael Potter</span></b> AR43 Specialist</p>
+                
+                <br><br clear="left">
+                
+                <br>
+                
+                <img src="{{ site.url }}{{ site.baseurl }}/assets/images/bio-photo.jpg" height="175" width="175" style="float:left; padding-right: 20px" align="left"> <p align="justify"> <b><span style="color: olive;">Nicole Chik</span></b> Co Principal Investigator.</p>
+                
+                <br><br clear="left">
+                
+          </div>
+<\html>
