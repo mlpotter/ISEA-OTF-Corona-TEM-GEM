@@ -64,13 +64,13 @@ Recently, AI/ML pioneers, including e.g. Andrew Ng, argue that changing a busine
  </body>
 </html>
 
-
+<br>
 <h1  id="Agenda-Id" style="text-align:center">Agenda</h1>
 <object data="{{ site.url }}{{ site.baseurl }}/assets/files/TEMPLATE - TEM AGENDA.pdf" width="1000" height="1000" type='application/pdf'></object>
 
-
+<br>
 <h1 id="Deadline-Id" style="text-align:center">Deadlines</h1>
-<table align="center"> > 
+<table align="center">
             <tr>
               <th colspan="3">Poster Presenters</th>
             </tr>
