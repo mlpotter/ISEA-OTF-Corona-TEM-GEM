@@ -165,15 +165,18 @@ html {
 </body>
 </html>
 
-<html>
-  <div id="content" class="clearfix shadow">
+
 <h2 style="text-align:center">Keynote Speakers</h2>
+<html>
+<div id="content" class="clearfix shadow">
                 
                 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/bio-photo.jpg" height="175" width="175" style="float:left; padding-right: 20px" align="left"> <p align="justify"> <b><span style="color: blue;">Taylor Cole</span></b> Chief Technology Officer </p>
                 
                 <br>
-                
+<\html>
+
 <h2 style="text-align:center">Organizers</h2>
+<html>
                                 
                 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/bio-photo.jpg" height="175" width="175" style="float:left; padding-right: 20px" align="left"> <p align="justify"> <b><span style="color: blue;">Michael Potter</span></b> AR43 Specialist</p>
                 
