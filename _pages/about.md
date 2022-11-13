@@ -42,39 +42,28 @@ NSWC Corona Technical Exchange Meeting offers a platform for organizations to pr
 <h2 style="text-align:center">Keynote Speakers</h2>
 <html>
                 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/bio-photo.jpg" height="175px" width="175px" style="float:left; padding-right: 20px" align="left"> <p align="justify"> <b><span style="color: blue;">Taylor Cole</span></b> Chief Technology Officer</p>
-                
                 <br><br clear="left">
-  
                 <br>
-  
                 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/bio-photo.jpg" height="175" width="175" style="float:left; padding-right: 20px" align="left"> <p align="justify"> <b><span style="color: blue;">Van Nguyen</span></b> is the AR40 Weapons Readiness Assessment Advocate. Mr. Nguyen earned his B.S. in Bioengineering at the University of California, Berkeley, J.D. at Loyola Law School Los Angeles, and M.S. in Data Science at the University of California, Riverside, CA.  After starting his career in the private sector as a database developer and system administrator, Mr. Nguyen started at NSWC Corona as the Vertical Launch System (VLS) Project Manager, leading the development and analysis team for maintenance, inventory, and readiness database for Mk41 VLS canisters. He then worked as the Project Lead for the Evolved Sea Sparrow Missile (ESSM) Ordnance Assessment program, led the NAVFAC Energy Analytics Assessment team, led the USMC LUMENS development effort, and also had supporting roles as a systems engineer for USMC Marine Ammunition Knowledge Enterprise (MAKE) team.</p>
-                
                 <br><br clear="left">
-  
                 <br>  
-  
                 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/bio-photo.jpg" height="175" width="175" style="float:left; padding-right: 20px" align="left"> <p align="justify"> <b><span style="color: blue;">Dr. Joseph fiordilino</span></b> is the Metrology Research & Advancement Branch Head (MS36) within the Metrology Engineering Division (MS30). Joseph is a graduate of the University of Pittsburgh with a Ph.D. in Mathematics.  He also holds a Master of Science in Pure & Applied Mathematics and Bachelor of Science degrees in Physics and Mathematics from Montclair State University. Joseph began his relationship with the Measurement Science Department in 2014, through the DoD SMART Program. He involved in the development of software for predictive analysis for directed energy (atmospheric propagation of high energy lasers [HELs]) and equipment maintenance (Marine Corps' CPAC Program).  Joseph was also responsible for the development of new and novel measurement instrumentation and related patent applications, support for the zero-chain traceability effort closely related to the NIST-on-a-Chip program, and support for Office of Naval Research (ONR) HEL Anti-Ship Cruise Missile Program (HELCAP).  Among his other responsibilities, Joseph has been serving as the temporary Branch Head for MS36 since June 2021. </p>
-                
                 <br><br clear="left">
-  
                 <br>
-  
-                <img src="{{ site.url }}{{ site.baseurl }}/assets/images/bio-photo.jpg" height="175" width="175" style="float:left; padding-right: 20px" align="left"> <p align="justify"> <b><span style="color: blue;">Joseph Lukacsffi</span></b> is the Range Systems and Engineering Department head </p>
-                
+                <img src="{{ site.url }}{{ site.baseurl }}/assets/images/bio-photo.jpg" height="175" width="175" style="float:left; padding-right: 20px" align="left"> <p align="justify"> <b><span style="color: blue;">Joseph Lukacsffi</span></b> is the Range Systems and Engineering Department head.</p>
                 <br><br clear="left">
- 
  </html>
 
 <h2 style="text-align:center">Organizers</h2>
 <html>
                                 
-                <img src="{{ site.url }}{{ site.baseurl }}/assets/images/MichaelPotter_ProfilePicture.JPG" style="float:left;width:200px;height:200px; padding-right: 20px" align="left"> <p align="justify"> <b><span style="color: blue;">Michael Potter</span></b> AR43 Specialist</p>
+                <img src="{{ site.url }}{{ site.baseurl }}/assets/images/MichaelPotter_ProfilePicture.JPG" style="float:left; width:200px;height:200px; padding-right: 20px" align="left"> <p align="justify"> <b><span style="color: blue;">Michael Potter</span></b> AR43 Specialist</p>
                 
                 <br><br clear="left">
                 
                 <br>
                 
-               <img src="{{ site.url }}{{ site.baseurl }}/assets/images/bio-photo.jpg" height="175" width="175" style="float:left; padding-right: 20px" align="left"> <p align="justify"> <b><span style="color: blue;">Pravin Naik </span></b> AR43 Specialist</p>
+               <img src="{{ site.url }}{{ site.baseurl }}/assets/images/bio-photo.jpg" height="175" width="175" style="float:left; width:200px;height:200px padding-right: 20px" align="left"> <p align="justify"> <b><span style="color: blue;">Pravin Naik </span></b> AR43 Specialist</p>
                 
                 <br><br clear="left">
                 
