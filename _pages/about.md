@@ -67,20 +67,17 @@ NSWC Corona Technical Exchange Meeting offers a platform for organizations to pr
  </html>
 
 <h2 style="text-align:center">Organizers</h2>
-<html>                  
+<html>     
+<div>
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/MichaelPotter_ProfilePicture.JPG" style="float:left;width:200px;height:200px;padding-right: 20px" align="left"> <p align="justify" style="margin-bottom: 0px;"> <b><span style="color: blue;">Michael Potter</span></b> is an Electronics Engineer in the Acquisition Readiness Data Analytics branch (AR43). He has earned his bachelors and masters degree in Electrical and Computer Engineering at Northeastern University in 2020, and his second masters degree at the University of California Los Angeles in Electrical and Computer Engineering in 2022. Michael Potter’s research interests are in recommendation systems, computer vision, linear dynamics, and deep learning. </p>  
-  
-<br><br clear="left"><br>
-  
+</div>
+<div>  
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/bio-photo.jpg" style="float:left;width:200px;height:200px;padding-right: 20px" align="left"> <p align="justify" style="margin-bottom: 0px;"> <b><span style="color: blue;">Pravin Naik </span></b> is super cool. More information about this guy will be filled in at an appropriate time when we receive a bio of some sorts, so please be patient and this is a run on sentence. </p> 
-  
- <br><br clear="left"><br>
-  
+</div>  
+<div>
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/bio-photo.jpg" style="float:left;width:200px;height:200px;padding-right: 20px" align="left"> <p align="justify" style="margin-bottom: 40px;"> <b><span style="color: blue;">Ed Schuberg</span></b> is a Scientist in the Acquisition Readiness Data Analytics branch (AR43). More information about this guy will be filled in at an appropriate time when we receive a bio of some sorts, so please be patient and this is a run on sentence. </p>  
-  
-<br><br clear="left"><br>
-  
+</div>
+<div>
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/bio-photo.jpg" style="float:left;width:200px;height:200px;padding-right: 20px" align="left"> <p align="justify" style="margin-bottom: 0px;"> <b><span style="color: blue;">Nicole Chik</span></b> is a Scientist in the Acquisition Readiness Data Analytics branch (AR43). More information about this gal will be filled in at an appropriate time when we receive a bio of some sorts, so please be patient and this is a run on sentence. </p>  <br><br clear="left">
-  
-<br><br clear="left"><br>
+</div>
 </html>
