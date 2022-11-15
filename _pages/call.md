@@ -27,7 +27,7 @@ sidebar:
             </tr>
         </table>
 ---
-The event is tentatively planned for Februrary 22-23, 2023. We encourage all NSWC Corona personnel, experts and novices alike, to answer the call for submissions. All technical projects from all departments are allowed! Your poster or keynote speech should be aligned with one of the two tracks outlined on the home page: Data-Centric AI or Model-Centric AI.
+The event is tentatively planned for Februrary 22-23, 2023. We encourage all NSWC Corona personnel, experts and novices alike, to answer the call for submissions. All technical projects from all departments are allowed! Your poster or keynote speech should be aligned with one of the two tracks outlined on the home page: Data-Centric approaches or Model-Centric approaches.
               
 [Register Now](https://www.corona-tem.com/registration/){: .btn .btn--info}              
        
