@@ -70,7 +70,8 @@ Recently, AI/ML pioneers, including e.g. Andrew Ng, argue that changing a busine
 
 <br>
 <h1 id="Deadline-Id" style="text-align:center">Deadlines</h1>
-<table align="center">
+<html>
+<table align="center"> 
             <tr>
               <th colspan="3">Poster Presenters</th>
             </tr>
@@ -83,25 +84,11 @@ Recently, AI/ML pioneers, including e.g. Andrew Ng, argue that changing a busine
               <td>01/13/2023</td>
             </tr>
             <tr>
-              <th colspan="3">Tutorial Instructors</th>
-            </tr> 
-            <tr>
-              <td>Curriculum Submission</td>
-              <td>12/16/2023</td>
-            </tr>
-            <tr>
-              <td>Tutorial Submission</td>
-              <td>01/13/2023</td>
-            </tr>
-            <tr>
               <th colspan="3">Attendees</th>
-            </tr>
-            <tr>
-              <td>Tutorial Registration</td>
-              <td>02/03/2023</td>
             </tr>
             <tr>
               <td>Register</td>
               <td>02/03/2023</td>
             </tr>
         </table>
+ </html>
