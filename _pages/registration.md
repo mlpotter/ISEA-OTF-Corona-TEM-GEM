@@ -18,22 +18,7 @@ sidebar:
               <td>01/13/2023</td>
             </tr>
             <tr>
-              <th colspan="3">Tutorial Instructors</th>
-            </tr> 
-            <tr>
-              <td>Curriculum Submission</td>
-              <td>12/16/2023</td>
-            </tr>
-            <tr>
-              <td>Tutorial Submission</td>
-              <td>01/13/2023</td>
-            </tr>
-            <tr>
               <th colspan="3">Attendees</th>
-            </tr>
-            <tr>
-              <td>Tutorial Registration</td>
-              <td>02/03/2023</td>
             </tr>
             <tr>
               <td>Register</td>
