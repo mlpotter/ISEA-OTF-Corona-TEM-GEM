@@ -90,5 +90,9 @@ Recently, AI/ML pioneers, including e.g. Andrew Ng, argue that changing a busine
               <td>Register</td>
               <td>03/03/2023</td>
             </tr>
+            <tr>
+              <td>Event Day</td>
+              <td>03/28/2023</td>
+            </tr>
         </table>
  </html>
