@@ -24,6 +24,10 @@ sidebar:
               <td>Register</td>
               <td>03/03/2023</td>
             </tr>
+            <tr>
+              <td>Event Day</td>
+              <td>03/28/2023</td>
+            </tr>
         </table>
 ---
 Please enable cookies on the webpage to view the embedded registration form. If you still cannot open the embedded registration form, please use this <a href="https://docs.google.com/forms/d/e/1FAIpQLSfgP6VYTzfb77hLmNBHUnKOH2FcWfTylB8MXRATSOYa5giN2A/viewform?usp=sf_link">link</a>
