@@ -11,18 +11,18 @@ sidebar:
             </tr>
             <tr>
               <td>Register & Abstract Submission</td>
-              <td>12/16/2023</td>
+              <td>01/16/2023</td>
             </tr>
             <tr>
               <td>Poster Submission</td>
-              <td>01/13/2023</td>
+              <td>02/13/2023</td>
             </tr>
             <tr>
               <th colspan="3">Attendees</th>
             </tr>
             <tr>
               <td>Register</td>
-              <td>02/03/2023</td>
+              <td>03/03/2023</td>
             </tr>
         </table>
 ---
