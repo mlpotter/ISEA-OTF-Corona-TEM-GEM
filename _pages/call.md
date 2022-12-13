@@ -40,8 +40,8 @@ The event is tentatively planned for March 28, 2023. We encourage all NSWC Coron
        
 ## Call for Poster Presentations (NSWC Corona Only):
 Are you interested in presenting your exciting and innovative Corona projects?  Enterprise ISEA of the Future - Corona is currently looking for poster presenters for our upcoming Technical Exchange Meeting (TEM) hosted in-person! Join us by showcasing your hard work, innovation, and technical skills. Poster presenters are expected to write a 300 word maximum abstract outlining the technical content of the poster material.
-* The <u>deadline</u> to register as a presenter is close of business November 16, 2023. 
-* Poster presenters' <u>deadline</u> to submit an abstract is by close of business November 16, 2023
+* The <u>deadline</u> to register as a presenter is close of business January 16, 2023. 
+* Poster presenters' <u>deadline</u> to submit an abstract is by close of business January 16, 2023
 * The <u>deadline</u> to submit your poster is close of business February 13, 2023.
               
 Email all abstracts and posters submissions to michael.l.potter40.civ@us.navy.mil in accordance with the deadlines. Our team will professionally print poster submissions using NSWC Corona's multimedia printing lab. 
