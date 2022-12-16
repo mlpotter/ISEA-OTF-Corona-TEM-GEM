@@ -38,8 +38,8 @@ sidebar:
             </tr>
         </table>
 ---
-The event is tentatively planned for March 28, 2023. We encourage all NSWC Corona personnel, experts and novices alike, to answer the call for submissions. All technical projects from all departments are allowed! Your poster or keynote speech should be aligned with one of the two tracks outlined on the home page: Data-Centric approaches or Model-Centric approaches.
-              
+The event is tentatively planned for March 28, 2023. We encourage all NSWC Corona personnel, experts and novices alike, to answer the call for submissions. All technical projects from all departments are allowed! Your abstract submission and subsequent poster may describe cutting-edge innovations or day-to-day operations for a sponsor. We expect a spectrum of submissions from deep research topics to high-level application projects.  
+
 [Register Now](https://www.corona-tem.com/registration/){: .btn .btn--info}              
        
 ## Call for Poster Presentations (NSWC Corona Only):
