@@ -66,7 +66,7 @@ NSWC Corona Technical Exchange Meeting offers a platform for organizations to pr
   <br>
   <br clear="both">
   <br>
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/EdSchuberg_Selfie.jpg" style="float:left;width:200px;height:200px;padding-right: 20px" align="left"><p align="justify"><b><span style="color: blue;">Ed Schuberg</span></b> is a statistician in the Acquisition Readiness Data Analytics branch (AR43). He received a B.A. in mathematics from the University of Dallas, in 2013, and a Ph.D. in applied statistics from the University of California, Riverside, in 2019. He joined NSWC Corona in 2022 after some time with a Navy contractor. He has assisted in reliability modeling with SM3, ESSM, and RAM missile groups. His current research interests include reliability theory, Bayesian analysis, and large-scale inference.</p>
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/EdSchuberg_Selfie.jpg" style="float:left;width:200px;height:200px;padding-right: 20px" align="left"><p align="justify"><b><span style="color: blue;">Dr. Ed Schuberg</span></b> is a statistician in the Acquisition Readiness Data Analytics branch (AR43). He received a B.A. in mathematics from the University of Dallas, in 2013, and a Ph.D. in applied statistics from the University of California, Riverside, in 2019. He joined NSWC Corona in 2022 after some time with a Navy contractor. He has assisted in reliability modeling with SM3, ESSM, and RAM missile groups. His current research interests include reliability theory, Bayesian analysis, and large-scale inference.</p>
   <br>
   <br clear="both">
   <br>
