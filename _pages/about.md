@@ -40,7 +40,7 @@ NSWC Corona Division has served as the Navy's independent assessment agent since
 NSWC Corona Technical Exchange Meeting offers a platform for organizations to present technological advancements and innovations. The primary interest areas for this Technical Exchange Meeting include: Assured Identity, Automation, MLOps, Security & Operations (DevSecOps), Fifth Generation Wireless (5G), Machine Learning & Artificial Intelligence (ML & AI), Industry 4.0, and Material Sciences.
 
 <html>
-<h2 style="text-align:center">Keynote Speakers</h2>
+<h2 style="text-align:center">Panel Speakers</h2>
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/bio-photo.jpg" style="float:left;width:200px;height:200px;padding-right: 20px" align="left"><p align="justify"><b><span style="color: blue;">Taylor Cole</span></b> is the Chief Technology Officer of NSWC Corona. More information about this guy will be filled in at an appropriate time when we receive a bio of some sorts, so please be patient and this is a run on sentence.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
   <br>
   <br clear="both">
