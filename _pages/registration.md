@@ -14,6 +14,10 @@ sidebar:
               <td>01/16/2023</td>
             </tr>
             <tr>
+              <td>Poster Presenter Selection</td>
+              <td>02/01/2023</td>
+            </tr>
+            <tr>
               <td>Poster Submission</td>
               <td>02/13/2023</td>
             </tr>
