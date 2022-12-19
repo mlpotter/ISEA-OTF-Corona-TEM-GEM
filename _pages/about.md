@@ -62,7 +62,7 @@ NSWC Corona Technical Exchange Meeting offers a platform for organizations to pr
   <br>
   <br clear="both">
   <br>
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/bio-photo.jpg" style="float:left;width:200px;height:200px;padding-right: 20px" align="left"><p align="justify"><b><span style="color: blue;">Pravin Naik </span></b>He received his B.S. in Mechanical Engineering with a concentration in Design and Manufacturing from the University of California, Riverside in 2020. He joined NSWC Corona in June of 2018 as a student intern in MS21. He supports a variety of gage and machining projects including Trident (SSP), VLS, RAM, Harpoon, and Sidewinder. He also aides other projects in Corona’s MSTL and Seal Beach’s Ordinance Laboratory.</p>
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/bio-photo.jpg" style="float:left;width:200px;height:200px;padding-right: 20px" align="left"><p align="justify"><b><span style="color: blue;">Pravin Naik </span></b> received his B.S. in Mechanical Engineering with a concentration in Design and Manufacturing from the University of California, Riverside in 2020. He joined NSWC Corona in June of 2018 as a student intern in MS21. He supports a variety of gage and machining projects including Trident (SSP), VLS, RAM, Harpoon, and Sidewinder. He also aides other projects in Corona’s MSTL and Seal Beach’s Ordinance Laboratory.</p>
   <br>
   <br clear="both">
   <br>
@@ -70,6 +70,6 @@ NSWC Corona Technical Exchange Meeting offers a platform for organizations to pr
   <br>
   <br clear="both">
   <br>
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/bio-photo.jpg" style="float:left;width:200px;height:200px;padding-right: 20px" align="left"><p align="justify"><b><span style="color: blue;">Nicole Chik</span></b>is a statistician in the Acquisition Readiness Data Integration and Analytics branch (AR43). She received a B.A. in Statistics in 2015 and an M.S. in Statistical Computing, Data Mining Track in 2018 from the University of Central Florida. She was a SMART Scholarship recipient and joined NSWC Corona upon completion of her Master's degree in 2018. She currently supports Standard Missile, ESSM, and RAM with their reliability and process improvement efforts</p>
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/bio-photo.jpg" style="float:left;width:200px;height:200px;padding-right: 20px" align="left"><p align="justify"><b><span style="color: blue;">Nicole Chik</span></b> is a statistician in the Acquisition Readiness Data Integration and Analytics branch (AR43). She received a B.A. in Statistics in 2015 and an M.S. in Statistical Computing, Data Mining Track in 2018 from the University of Central Florida. She was a SMART Scholarship recipient and joined NSWC Corona upon completion of her Master's degree in 2018. She currently supports Standard Missile, ESSM, and RAM with their reliability and process improvement efforts</p>
   <br>
 </html>
