@@ -38,7 +38,7 @@ sidebar:
             </tr>
         </table>
 ---
-The event is tentatively planned for March 28, 2023. We encourage all NSWC Corona personnel, experts and novices alike, to answer the call for submissions. All technical projects from all departments are allowed! Your abstract submission and subsequent poster (if selected by your respective the technical department head) may describe cutting-edge innovations or day-to-day operations for a sponsor. We expect a spectrum of submissions from deep research topics to high-level application projects.  
+The event is tentatively planned for March 28, 2023. We encourage all NSWC Corona personnel, experts and novices alike, to answer the call for submissions. All technical projects from all departments are allowed! Your abstract submission and subsequent poster (if selected by your respective technical department head) may describe cutting-edge innovations or day-to-day operations for a sponsor. We expect a spectrum of submissions from deep research topics to high-level application projects.  
 
 [Register Now](https://www.corona-tem.com/registration/){: .btn .btn--info}              
        
