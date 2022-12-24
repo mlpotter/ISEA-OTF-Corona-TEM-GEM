@@ -49,7 +49,7 @@ Are you interested in presenting your exciting and innovative Corona projects?  
 * Poster presenters' <u>deadline</u> to submit an abstract is by close of business January 16, 2023
 * The <u>deadline</u> to submit your poster is close of business February 13, 2023.
               
-Email all abstracts and posters submissions to michael.l.potter40.civ@us.navy.mil in accordance with the deadlines. Our team will professionally print poster submissions using NSWC Corona's multimedia printing lab. Abstract emails should have the subject line "ISEA OTF - ABSTRACT" and poster emails should have the subject line "ISEA OTF - POSTER".
+Email all abstracts and posters submissions to michael.l.potter40.civ@us.navy.mil in accordance with the deadlines. Abstract emails should have the subject line "ISEA OTF - ABSTRACT" and poster emails should have the subject line "ISEA OTF - POSTER". <b><span style="color: blue;">Our team will professionally print poster submissions using NSWC Corona's multimedia printing lab.</span></b>
               
 Please use the following poster template to submit your poster.
               
