@@ -38,7 +38,7 @@ sidebar:
             </tr>
         </table>
 ---
-The event is tentatively planned for March 28, 2023. We encourage all NSWC Corona personnel, experts and novices alike, to answer the call for submissions. All technical projects from all departments are allowed! Your abstract submission and subsequent poster may describe cutting-edge innovations or day-to-day operations for a sponsor. We expect a spectrum of submissions from deep research topics to high-level application projects.  
+The event is tentatively planned for March 28, 2023. We encourage all NSWC Corona personnel, experts and novices alike, to answer the call for submissions. All technical projects from all departments are allowed! Your abstract submission and subsequent poster (if selected by your respective the technical department head) may describe cutting-edge innovations or day-to-day operations for a sponsor. We expect a spectrum of submissions from deep research topics to high-level application projects.  
 
 [Register Now](https://www.corona-tem.com/registration/){: .btn .btn--info}              
        
@@ -49,7 +49,7 @@ Are you interested in presenting your exciting and innovative Corona projects?  
 * Poster presenters' <u>deadline</u> to submit an abstract is by close of business January 16, 2023
 * The <u>deadline</u> to submit your poster is close of business February 13, 2023.
               
-Email all abstracts and posters submissions to michael.l.potter40.civ@us.navy.mil in accordance with the deadlines. Our team will professionally print poster submissions using NSWC Corona's multimedia printing lab. 
+Email all abstracts and posters submissions to michael.l.potter40.civ@us.navy.mil in accordance with the deadlines. Our team will professionally print poster submissions using NSWC Corona's multimedia printing lab. Abstract emails should have the subject line "ISEA OTF - ABSTRACT" and poster emails should have the subject line "ISEA OTF - POSTER".
               
 Please use the following poster template to submit your poster.
               
