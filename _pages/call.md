@@ -49,6 +49,13 @@ Are you interested in presenting your exciting and innovative Corona projects?  
 * Poster presenters' <u>deadline</u> to submit an abstract is by close of business January 16, 2023
 * The <u>deadline</u> to submit your poster is close of business February 13, 2023.
               
+If you are unsure about what to submit for an abstract, have no fear, please click the dropdown button for an example.
+
+<button type="button" class="collapsible">Open Collapsible</button>
+<div class="content">
+  <p>We developed a tool that accesses, combines, and visualizes accurate data sources from across the naval enterprise using commercial, Navy-approved GIS toolsets, where possible, to provide decision-makers with the ability to quickly manage, model, and optimize infrastructure to meet Fleet readiness requirements, and to simulate and plan for changing environments due to evolving Fleet operational requirements, natural disasters, or acts of aggression. A pilot system was developed for calibration readiness applications, due to the large, unclassified calibration community data set and its geographically-focused nature. The system could then be expanded to address the larger Fleet readiness problem in both the unclassified and classified environments. This pilot will also assist RS and AR in various projects helping the fleet. </p>
+</div>
+              
 Email all abstracts and posters submissions to michael.l.potter40.civ@us.navy.mil in accordance with the deadlines. Abstract emails should have the subject line "ISEA OTF - ABSTRACT" and poster emails should have the subject line "ISEA OTF - POSTER". <b><span style="color: blue;">Our team will professionally print poster submissions using NSWC Corona's multimedia printing lab.</span></b>
               
 Please use the following poster template to submit your poster.
