@@ -72,4 +72,8 @@ NSWC Corona Technical Exchange Meeting offers a platform for organizations to pr
   <br>
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/bio-photo.jpg" style="float:left;width:200px;height:200px;padding-right: 20px" align="left"><p align="justify"><b><span style="color: blue;">Nicole Chik</span></b> is a statistician in the Acquisition Readiness Data Integration and Analytics branch (AR43). She received a B.A. in Statistics in 2015 and an M.S. in Statistical Computing, Data Mining Track in 2018 from the University of Central Florida. She was a SMART Scholarship recipient and joined NSWC Corona upon completion of her Master's degree in 2018. She currently supports Standard Missile, ESSM, and RAM with their reliability and process improvement efforts.</p>
   <br>
+  <br clear="both">
+  <br>
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/ed_ramirez_selffie.jpg" style="float:left;width:200px;height:200px;padding-right: 20px" align="left"><p align="justify"><b><span style="color: blue;">Edward Ramirez</span></b> is a Computer/Data Scientist in the Acquisition Readiness Data Analytics Production Branch (AR54). Currently enrolled in an Information Technology doctorate program. He has a master's in Engineering with an emphasis on Data Science and a master's and bachelor's degree in Computer Science. He has worked for multiple departments at NSWC Corona and has led advanced analytic efforts for SMDII, maintenance, and reliability. He also created calibration information systems that are actively in use by surface warfighters and submariners. A technology leader and avid employee advocate for enabling innovation.</p>
+  <br>
 </html>
